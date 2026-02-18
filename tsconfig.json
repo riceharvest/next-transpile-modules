@@ -6,6 +6,7 @@
     "declaration": true,
     "emitDeclarationOnly": true,
     "target": "ES2015",
-    "moduleResolution": "node"
+    "moduleResolution": "node",
+    "skipLibCheck": true
   }
 }
