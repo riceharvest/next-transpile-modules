@@ -340,4 +340,4 @@ It is not a great solution, but it works. Any help to find a more future-proof s
 
 ## Credits
 
-All the honor goes to [James Gorrie](https://github.com/jamesgorrie) who created the first version of this plugin.
+All the honor goes to [James Gorrie](https://github.com/jamesgorrie) who created the first version of this plugin.\n\n---\n\nMaintained by @opensourceframework in the [monorepo](https://github.com/riceharvest/opensourceframework).
